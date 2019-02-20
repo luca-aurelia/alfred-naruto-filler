@@ -1,0 +1,16 @@
+{
+  "name": "alfred-naruto-filler",
+  "version": "0.0.0",
+  "description": "An Alfred script that tells you whether a given Naruto episode is filler or not.",
+  "main": "index.js",
+  "repository": "https://github.com/noise-machines/alfred-naruto-filler",
+  "author": "C. Thomas Bailey (@noise_machines)",
+  "license": "MIT",
+  "dependencies": {
+    "alfy": "^0.8.0",
+    "range": "^0.0.3"
+  },
+  "devDependencies": {
+    "standard": "^12.0.1"
+  }
+}
